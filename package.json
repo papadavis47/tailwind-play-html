@@ -1,0 +1,14 @@
+{
+  "name": "tw",
+  "version": "1.0.0",
+  "description": "html tailwind practice",
+  "main": "index.js",
+  "author": "john william davis",
+  "license": "MIT",
+  "scripts": {
+    "buildcss": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
