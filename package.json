@@ -6,7 +6,8 @@
   "author": "john william davis",
   "license": "MIT",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "build": "npx tailwindcss -i ./input.css -o ./src/output.css --watch",
+    "live": "live-server src --port=5500"
   },
   "devDependencies": {
     "tailwindcss": "^3.0.24"
