@@ -537,6 +537,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(41 37 36 / var(--tw-bg-opacity));
 }
 
+.bg-purple-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(107 33 168 / var(--tw-bg-opacity));
+}
+
 .text-center {
   text-align: center;
 }
