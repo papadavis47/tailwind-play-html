@@ -9,7 +9,9 @@ To use the repo using the GitHub CLI do the following command:
 
 `gh repo create <new-repo-name> --public --template tailwind-play-html`
 
-The run:
+Clone the repo down and `cd` into it.
+
+Then run:
 
 ```bash
 yarn
