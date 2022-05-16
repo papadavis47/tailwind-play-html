@@ -8,3 +8,16 @@ I am going to use this for experimentation.
 To use the repo using the GitHub CLI do the following command:
 
 `gh repo create <new-repo-name> --public --template tailwind-play-html`
+
+The run:
+
+```bash
+yarn
+
+# Followed by:
+
+yarn build
+
+```
+
+Replace starter content and go for it.
